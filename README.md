@@ -1,2 +1,2 @@
 # Abdul Bari course
-This repo contains self practise codes from the udemy course on mastering DSA by Abdul Bari.
+This repo contains self practised codes from the udemy course on mastering DSA by Abdul Bari.
